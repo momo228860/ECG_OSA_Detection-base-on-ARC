@@ -5,6 +5,7 @@ This program is designed to recognize **Obstructive Sleep Apnea**. Using I²C co
 
 <img width="450" alt="PC2" src="https://user-images.githubusercontent.com/87894572/176604629-1e02e3cf-c78f-47bf-a87c-b511c30e8c5f.png">
 
+
 * [Introduction](#introduction)
 * [Hardware and Software Setup](#hardware-and-software-setup)
 	* [Required Hardware](#required-hardware)
@@ -846,13 +847,13 @@ int main(void)
 
 <img width="450" alt="PC2" src="https://user-images.githubusercontent.com/87894572/177011627-4b93ba0d-799e-4b24-96f9-8e2e77bb78cb.png">
 
-4. OCED1306 display "AHI:XX" : User wake up and calculate apnena times in average hour.
+4. OCED1306 display "AI:XX" : User wake up and calculate apnena times in average hour.
 
-<img width="450" alt="PC2" src="https://user-images.githubusercontent.com/87894572/177011723-c1305a32-e574-4d0e-8410-0d62cdd290f4.png">
+<img width="450" alt="PC2" src="https://user-images.githubusercontent.com/85031209/181212625-a93794cc-7820-497b-9942-f437990c490f.jpg">
 
 - Wearable device put on user
 
-<img width="450" alt="PC2" src="https://user-images.githubusercontent.com/87894572/177012463-0b1d368c-bbdb-49de-b6ba-c01ba39a95b7.png">
+<img width="450" alt="PC2" src="https://user-images.githubusercontent.com/85031209/181212704-2f15329a-70ee-474a-b127-2f16c8eb198d.jpg">
 
 - User lay on bed
 
